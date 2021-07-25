@@ -1,6 +1,8 @@
 # Tree
 
-1. 트리 기초(왼쪽 자식, 오른쪽 형제)
-2. 이진트리
-3. 수식트리
-4. 분리집합
+This is the code for the data structure tree.
+
+1. Foundation Tree 
+2. Binary Tree
+3. Formula Tree
+4. Separate Set
